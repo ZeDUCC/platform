@@ -17,3 +17,6 @@ while True:
 
     pygame.display.update()
     clock.tick(60)
+
+
+#RESUME VIDEO AT 9:41
